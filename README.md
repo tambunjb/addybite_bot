@@ -9,6 +9,10 @@ The bot will respond to skincare-related product recommendation requests using O
 - Peeling serum  
 - Lip balm
 
+## 🚧 Current Limitations
+- 🗨️ **Single Chat Context Only**:  
+  The bot currently only works with messages **contained within a single message**. It does not track or interpret intent spread across multiple sequential messages (i.e., no session or conversational memory yet).
+  
 ---
 
 # 🧴 AddyBite Bot – Skincare Recommendation Chatbot
