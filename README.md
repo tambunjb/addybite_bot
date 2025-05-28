@@ -1,3 +1,14 @@
+# <span id="tjidtitle">AddyBite Bot</span>
+
+<div>Technologies: <span id="tjidtechs">Node.js, Express.js, Axios, PostgreSQL, OpenAI API, Telegram API, Ngrok, pgvector, text-embedding-3-small</span></div>
+<br />
+<div>Links: 
+  <ul id="tjidlinks">
+    <li>https://t.me/addybite_bot</li>
+  </ul>
+</div>
+<br />
+
 # 🚨 NOTE: You Can Test My Live Bot @addybite_bot
 
 I have published this project online.  
